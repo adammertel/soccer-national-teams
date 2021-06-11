@@ -1,8 +1,7 @@
-## EURO 2020 matches predicions
+## EURO 2020 matches predictions
 
-- simple set of scripts to predict EURO2020 results based on weighted mutual history of matches
-
-- Data of matches scrapped from [www.national-football-teams.com](https://www.national-football-teams.com)
+- set of scripts to predict EURO2020 results based on the weighted mutual history of matches
+- matches data scrapped from [www.national-football-teams.com](https://www.national-football-teams.com)
 
 ## Script files:
 
