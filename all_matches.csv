@@ -1,0 +1,1291 @@
+,date,team_home,team_away,score,score_home,score_away,penalties
+0,2000-09-02,Belgium,Croatia,0:0,0,0,0:
+1,2000-06-19,Belgium,Turkey,0:2,0,2,0:
+2,2000-06-10,Belgium,Sweden,2:1,2,1,2:
+3,2000-03-29,Belgium,Netherlands,2:2,2,2,2:
+4,2000-02-23,Belgium,Portugal,1:1,1,1,1:
+5,2001-11-10,Belgium,Czech Republic,1:0,1,0,1:
+6,2001-09-05,Belgium,Scotland,2:0,2,0,2:
+7,2002-06-14,Belgium,Russia,3:2,3,2,3:
+8,2002-04-17,Belgium,Slovakia,1:1,1,1,1:
+9,2003-09-10,Belgium,Croatia,2:1,2,1,2:
+10,2003-08-20,Belgium,Netherlands,1:1,1,1,1:
+11,2003-04-30,Belgium,Poland,3:1,3,1,3:
+12,2004-04-28,Belgium,Turkey,2:3,2,3,2:
+13,2004-02-18,Belgium,France,0:2,0,2,0:
+14,2005-10-08,Belgium,Spain,0:2,0,2,0:
+15,2006-11-15,Belgium,Poland,0:1,0,1,0:
+16,2006-05-24,Belgium,Turkey,3:3,3,3,3:
+17,2007-10-13,Belgium,Finland,0:0,0,0,0:
+18,2007-06-02,Belgium,Portugal,1:2,1,2,1:
+19,2007-02-07,Belgium,Czech Republic,0:2,0,2,0:
+20,2008-10-15,Belgium,Spain,1:2,1,2,1:
+21,2009-11-14,Belgium,Hungary,3:0,3,0,3:
+22,2009-10-10,Belgium,Turkey,2:0,2,0,2:
+23,2010-10-12,Belgium,Austria,4:4,4,4,4:
+24,2010-09-03,Belgium,Germany,0:1,0,1,0:
+25,2010-03-03,Belgium,Croatia,0:1,0,1,0:
+26,2011-06-03,Belgium,Turkey,1:1,1,1,1:
+27,2011-02-09,Belgium,Finland,1:1,1,1,1:
+28,2012-10-16,Belgium,Scotland,2:0,2,0,2:
+29,2012-09-11,Belgium,Croatia,1:1,1,1,1:
+30,2012-08-15,Belgium,Netherlands,4:2,4,2,4:
+31,2013-10-15,Belgium,Wales,1:1,1,1,1:
+32,2013-08-14,Belgium,France,0:0,0,0,0:
+33,2013-03-26,Belgium,North Macedonia,1:0,1,0,1:
+34,2013-02-06,Belgium,Slovakia,2:1,2,1,2:
+35,2014-11-16,Belgium,Wales,0:0,0,0,0:
+36,2014-06-22,Belgium,Russia,1:0,1,0,1:
+37,2015-11-13,Belgium,Italy,3:1,3,1,3:
+38,2016-09-01,Belgium,Spain,0:2,0,2,0:
+39,2016-06-13,Belgium,Italy,0:2,0,2,0:
+40,2016-06-01,Belgium,Finland,1:1,1,1,1:
+41,2017-06-05,Belgium,Czech Republic,2:1,2,1,2:
+42,2018-10-16,Belgium,Netherlands,1:1,1,1,1:
+43,2018-10-12,Belgium,Switzerland,2:1,2,1,2:
+44,2018-07-14,Belgium,England,2:0,2,0,2:
+45,2018-06-02,Belgium,Portugal,0:0,0,0,0:
+46,2019-06-11,Belgium,Scotland,3:0,3,0,3:
+47,2019-03-21,Belgium,Russia,3:1,3,1,3:
+48,2020-11-18,Belgium,Denmark,4:2,4,2,4:
+49,2020-11-15,Belgium,England,2:0,2,0,2:
+50,2020-11-11,Belgium,Switzerland,2:1,2,1,2:
+51,2021-06-06,Belgium,Croatia,1:0,1,0,1:
+52,2021-03-24,Belgium,Wales,3:1,3,1,3:
+53,2000-11-15,Italy,England,1:0,1,0,1:
+54,2000-06-19,Italy,Sweden,2:1,2,1,2:
+55,2000-06-14,Italy,Belgium,2:0,2,0,2:
+56,2000-04-26,Italy,Portugal,2:0,2,0,2:
+57,2000-02-23,Italy,Sweden,1:0,1,0,1:
+58,2001-10-06,Italy,Hungary,1:0,1,0,1:
+59,2002-11-20,Italy,Turkey,1:1,1,1,1:
+60,2002-06-08,Italy,Croatia,1:2,1,2,1:
+61,2003-09-06,Italy,Wales,4:0,4,0,4:
+62,2003-03-29,Italy,Finland,2:0,2,0,2:
+63,2003-02-12,Italy,Portugal,1:0,1,0,1:
+64,2004-11-17,Italy,Finland,1:0,1,0,1:
+65,2004-06-18,Italy,Sweden,1:1,1,1,1:
+66,2004-04-28,Italy,Spain,1:1,1,1,1:
+67,2004-02-18,Italy,Czech Republic,2:2,2,2,2:
+68,2005-03-26,Italy,Scotland,2:0,2,0,2:
+69,2005-02-09,Italy,Russia,2:0,2,0,2:
+70,2006-11-15,Italy,Turkey,1:1,1,1,1:
+71,2006-10-07,Italy,Ukraine,2:0,2,0,2:
+72,2006-08-16,Italy,Croatia,0:2,0,2,0:
+73,2006-07-09,Italy,France,1:1 (5:3),1,1,5:3
+74,2006-06-30,Italy,Ukraine,3:0,3,0,3:
+75,2006-06-02,Italy,Ukraine,0:0,0,0,0:
+76,2006-03-01,Italy,Germany,4:1,4,1,4:
+77,2007-09-08,Italy,France,0:0,0,0,0:
+78,2007-03-28,Italy,Scotland,2:0,2,0,2:
+79,2008-08-20,Italy,Austria,2:2,2,2,2:
+80,2008-05-30,Italy,Belgium,3:1,3,1,3:
+81,2008-02-06,Italy,Portugal,3:1,3,1,3:
+82,2009-11-18,Italy,Sweden,1:0,1,0,1:
+83,2009-11-14,Italy,Netherlands,0:0,0,0,0:
+84,2011-08-10,Italy,Spain,2:1,2,1,2:
+85,2012-11-14,Italy,France,1:2,1,2,1:
+86,2012-10-16,Italy,Denmark,3:1,3,1,3:
+87,2012-08-15,Italy,England,1:2,1,2,1:
+88,2012-06-14,Italy,Croatia,1:1,1,1,1:
+89,2012-06-01,Italy,Russia,0:3,0,3,0:
+90,2013-11-15,Italy,Germany,1:1,1,1,1:
+91,2013-09-10,Italy,Czech Republic,2:1,2,1,2:
+92,2014-11-16,Italy,Croatia,1:1,1,1,1:
+93,2014-09-04,Italy,Netherlands,2:0,2,0,2:
+94,2015-06-16,Italy,Portugal,0:1,0,1,0:
+95,2015-03-31,Italy,England,1:1,1,1,1:
+96,2016-11-15,Italy,Germany,0:0,0,0,0:
+97,2016-10-06,Italy,Spain,1:1,1,1,1:
+98,2016-09-01,Italy,France,1:3,1,3,1:
+99,2016-06-27,Italy,Spain,2:0,2,0,2:
+100,2016-06-17,Italy,Sweden,1:0,1,0,1:
+101,2016-06-06,Italy,Finland,2:0,2,0,2:
+102,2016-05-29,Italy,Scotland,1:0,1,0,1:
+103,2016-03-24,Italy,Spain,1:1,1,1,1:
+104,2017-11-13,Italy,Sweden,0:0,0,0,0:
+105,2017-10-06,Italy,North Macedonia,1:1,1,1,1:
+106,2018-11-17,Italy,Portugal,0:0,0,0,0:
+107,2018-10-10,Italy,Ukraine,1:1,1,1,1:
+108,2018-09-07,Italy,Poland,1:1,1,1,1:
+109,2018-06-04,Italy,Netherlands,1:1,1,1,1:
+110,2019-03-23,Italy,Finland,2:0,2,0,2:
+111,2020-11-15,Italy,Poland,2:0,2,0,2:
+112,2020-10-14,Italy,Netherlands,1:1,1,1,1:
+113,2021-06-04,Italy,Czech Republic,4:0,4,0,4:
+114,2000-05-31,Russia,Slovakia,1:1,1,1,1:
+115,2001-10-06,Russia,Switzerland,4:0,4,0,4:
+116,2002-08-21,Russia,Sweden,1:1,1,1,1:
+117,2003-11-15,Russia,Wales,0:0,0,0,0:
+118,2003-09-10,Russia,Switzerland,4:1,4,1,4:
+119,2004-09-04,Russia,Slovakia,1:1,1,1,1:
+120,2005-09-07,Russia,Portugal,0:0,0,0,0:
+121,2006-09-06,Russia,Croatia,0:0,0,0,0:
+122,2007-10-17,Russia,England,2:1,2,1,2:
+123,2007-09-08,Russia,North Macedonia,3:0,3,0,3:
+124,2007-08-22,Russia,Poland,2:2,2,2,2:
+125,2008-10-15,Russia,Finland,3:0,3,0,3:
+126,2008-09-10,Russia,Wales,2:1,2,1,2:
+127,2008-08-20,Russia,Netherlands,1:1,1,1,1:
+128,2008-06-26,Russia,Spain,0:3,0,3,0:
+129,2008-06-18,Russia,Sweden,2:0,2,0,2:
+130,2009-10-10,Russia,Germany,0:1,0,1,0:
+131,2010-11-17,Russia,Belgium,0:2,0,2,0:
+132,2010-09-07,Russia,Slovakia,0:1,0,1,0:
+133,2011-09-02,Russia,North Macedonia,1:0,1,0,1:
+134,2012-10-12,Russia,Portugal,1:0,1,0,1:
+135,2012-06-08,Russia,Czech Republic,4:1,4,1,4:
+136,2014-05-26,Russia,Slovakia,1:0,1,0,1:
+137,2015-11-17,Russia,Croatia,1:3,1,3,1:
+138,2015-11-14,Russia,Portugal,1:0,1,0,1:
+139,2015-09-05,Russia,Sweden,1:0,1,0,1:
+140,2015-06-14,Russia,Austria,0:1,0,1,0:
+141,2016-06-20,Russia,Wales,0:3,0,3,0:
+142,2016-06-15,Russia,Slovakia,1:2,1,2,1:
+143,2017-11-14,Russia,Spain,3:3,3,3,3:
+144,2017-06-21,Russia,Portugal,0:1,0,1,0:
+145,2017-03-28,Russia,Belgium,3:3,3,3,3:
+146,2018-10-14,Russia,Turkey,2:0,2,0,2:
+147,2018-10-11,Russia,Sweden,0:0,0,0,0:
+148,2018-09-10,Russia,Czech Republic,5:1,5,1,5:
+149,2018-07-07,Russia,Croatia,2:2 (3:4),2,2,3:4
+150,2018-06-05,Russia,Turkey,1:1,1,1,1:
+151,2018-03-27,Russia,France,1:3,1,3,1:
+152,2019-11-16,Russia,Belgium,1:4,1,4,1:
+153,2019-10-10,Russia,Scotland,4:0,4,0,4:
+154,2020-10-14,Russia,Hungary,0:0,0,0,0:
+155,2020-10-11,Russia,Turkey,1:1,1,1,1:
+156,2020-10-08,Russia,Sweden,1:2,1,2,1:
+157,2000-10-11,Poland,Wales,0:0,0,0,0:
+158,2000-04-26,Poland,Finland,0:0,0,0,0:
+159,2001-10-06,Poland,Ukraine,1:1,1,1,1:
+160,2001-04-25,Poland,Scotland,1:1,1,1,1:
+161,2001-02-28,Poland,Switzerland,4:0,4,0,4:
+162,2002-08-21,Poland,Belgium,1:1,1,1,1:
+163,2003-11-12,Poland,Italy,3:1,3,1,3:
+164,2003-09-10,Poland,Sweden,0:2,0,2,0:
+165,2003-03-29,Poland,Hungary,0:0,0,0,0:
+166,2003-02-14,Poland,North Macedonia,3:0,3,0,3:
+167,2004-09-08,Poland,England,1:2,1,2,1:
+168,2004-08-18,Poland,Denmark,1:5,1,5,1:
+169,2005-09-07,Poland,Wales,1:0,1,0,1:
+170,2005-09-03,Poland,Austria,3:2,3,2,3:
+171,2006-10-11,Poland,Portugal,2:1,2,1,2:
+172,2006-09-02,Poland,Finland,1:3,1,3,1:
+173,2006-06-03,Poland,Croatia,1:0,1,0,1:
+174,2007-11-17,Poland,Belgium,2:0,2,0,2:
+175,2007-10-17,Poland,Hungary,0:1,0,1,0:
+176,2007-02-07,Poland,Slovakia,2:2,2,2,2:
+177,2008-10-11,Poland,Czech Republic,2:1,2,1,2:
+178,2008-06-16,Poland,Croatia,0:1,0,1,0:
+179,2008-06-01,Poland,Denmark,1:1,1,1,1:
+180,2009-10-14,Poland,Slovakia,0:1,0,1,0:
+181,2010-09-04,Poland,Ukraine,1:1,1,1,1:
+182,2010-05-29,Poland,Finland,0:0,0,0,0:
+183,2010-01-17,Poland,Denmark,1:3,1,3,1:
+184,2011-11-15,Poland,Hungary,2:1,2,1,2:
+185,2011-11-11,Poland,Italy,0:2,0,2,0:
+186,2011-09-06,Poland,Germany,2:2,2,2,2:
+187,2011-06-09,Poland,France,0:1,0,1,0:
+188,2012-12-14,Poland,North Macedonia,4:1,4,1,4:
+189,2012-10-17,Poland,England,1:1,1,1,1:
+190,2012-06-16,Poland,Czech Republic,0:1,0,1,0:
+191,2012-06-12,Poland,Russia,1:1,1,1,1:
+192,2012-05-26,Poland,Slovakia,1:0,1,0,1:
+193,2012-02-29,Poland,Portugal,0:0,0,0,0:
+194,2013-11-15,Poland,Slovakia,0:2,0,2,0:
+195,2013-08-14,Poland,Denmark,3:2,3,2,3:
+196,2013-03-22,Poland,Ukraine,1:3,1,3,1:
+197,2014-11-18,Poland,Switzerland,2:2,2,2,2:
+198,2014-10-14,Poland,Scotland,2:2,2,2,2:
+199,2014-10-11,Poland,Germany,2:0,2,0,2:
+200,2014-03-05,Poland,Scotland,0:1,0,1,0:
+201,2015-11-17,Poland,Czech Republic,3:1,3,1,3:
+202,2016-10-08,Poland,Denmark,3:2,3,2,3:
+203,2016-06-30,Poland,Portugal,1:1 (3:5),1,1,3:5
+204,2016-06-01,Poland,Netherlands,1:2,1,2,1:
+205,2016-03-26,Poland,Finland,5:0,5,0,5:
+206,2018-11-15,Poland,Czech Republic,0:1,0,1,0:
+207,2018-10-14,Poland,Italy,0:1,0,1,0:
+208,2018-10-11,Poland,Portugal,2:3,2,3,2:
+209,2019-10-13,Poland,North Macedonia,2:0,2,0,2:
+210,2019-09-09,Poland,Austria,0:0,0,0,0:
+211,2020-11-18,Poland,Netherlands,1:2,1,2,1:
+212,2020-11-11,Poland,Ukraine,2:0,2,0,2:
+213,2020-10-11,Poland,Italy,0:0,0,0,0:
+214,2020-10-07,Poland,Finland,5:1,5,1,5:
+215,2021-06-01,Poland,Russia,1:1,1,1,1:
+216,2000-09-02,Ukraine,Poland,1:3,1,3,1:
+217,2001-11-10,Ukraine,Germany,1:1,1,1,1:
+218,2001-06-06,Ukraine,Wales,1:1,1,1,1:
+219,2003-10-11,Ukraine,North Macedonia,0:0,0,0,0:
+220,2003-03-29,Ukraine,Spain,2:2,2,2,2:
+221,2004-04-28,Ukraine,Slovakia,1:1,1,1,1:
+222,2005-09-07,Ukraine,Turkey,0:1,0,1,0:
+223,2005-03-30,Ukraine,Denmark,1:0,1,0,1:
+224,2006-10-11,Ukraine,Scotland,2:0,2,0,2:
+225,2007-11-21,Ukraine,France,2:2,2,2,2:
+226,2007-09-12,Ukraine,Italy,1:2,1,2,1:
+227,2008-10-11,Ukraine,Croatia,0:0,0,0,0:
+228,2008-08-20,Ukraine,Poland,1:0,1,0,1:
+229,2009-10-10,Ukraine,England,1:0,1,0,1:
+230,2009-08-12,Ukraine,Turkey,0:3,0,3,0:
+231,2010-08-11,Ukraine,Netherlands,1:1,1,1,1:
+232,2011-11-15,Ukraine,Austria,2:1,2,1,2:
+233,2011-11-11,Ukraine,Germany,3:3,3,3,3:
+234,2011-08-10,Ukraine,Sweden,0:1,0,1,0:
+235,2011-06-06,Ukraine,France,1:4,1,4,1:
+236,2011-03-29,Ukraine,Italy,0:2,0,2,0:
+237,2012-08-15,Ukraine,Czech Republic,0:0,0,0,0:
+238,2012-06-15,Ukraine,France,0:2,0,2,0:
+239,2012-06-11,Ukraine,Sweden,2:1,2,1,2:
+240,2012-06-05,Ukraine,Turkey,0:2,0,2,0:
+241,2013-11-15,Ukraine,France,2:0,2,0,2:
+242,2013-10-11,Ukraine,Poland,1:0,1,0,1:
+243,2013-09-10,Ukraine,England,0:0,0,0,0:
+244,2014-10-12,Ukraine,North Macedonia,1:0,1,0,1:
+245,2014-09-08,Ukraine,Slovakia,0:1,0,1,0:
+246,2015-10-12,Ukraine,Spain,0:1,0,1,0:
+247,2016-11-12,Ukraine,Finland,1:0,1,0,1:
+248,2016-06-21,Ukraine,Poland,0:1,0,1,0:
+249,2016-03-28,Ukraine,Wales,1:0,1,0,1:
+250,2017-11-10,Ukraine,Slovakia,2:1,2,1,2:
+251,2017-10-09,Ukraine,Croatia,0:2,0,2,0:
+252,2017-09-02,Ukraine,Turkey,2:0,2,0,2:
+253,2018-10-16,Ukraine,Czech Republic,1:0,1,0,1:
+254,2018-09-09,Ukraine,Slovakia,1:0,1,0,1:
+255,2019-10-14,Ukraine,Portugal,2:1,2,1,2:
+256,2020-10-13,Ukraine,Spain,1:0,1,0,1:
+257,2020-10-10,Ukraine,Germany,1:2,1,2,1:
+258,2020-09-03,Ukraine,Switzerland,2:1,2,1,2:
+259,2021-03-28,Ukraine,Finland,1:1,1,1,1:
+260,2000-11-15,Spain,Netherlands,1:2,1,2,1:
+261,2000-06-25,Spain,France,1:2,1,2,1:
+262,2000-03-29,Spain,Italy,2:0,2,0,2:
+263,2000-01-26,Spain,Poland,3:0,3,0,3:
+264,2001-09-01,Spain,Austria,4:0,4,0,4:
+265,2001-03-28,Spain,France,2:1,2,1,2:
+266,2002-02-13,Spain,Portugal,1:1,1,1,1:
+267,2003-09-10,Spain,Ukraine,2:1,2,1,2:
+268,2003-02-12,Spain,Germany,3:1,3,1,3:
+269,2004-11-17,Spain,England,1:0,1,0,1:
+270,2004-10-09,Spain,Belgium,2:0,2,0,2:
+271,2004-09-03,Spain,Scotland,1:1,1,1,1:
+272,2004-06-12,Spain,Russia,1:0,1,0,1:
+273,2004-03-31,Spain,Denmark,2:0,2,0,2:
+274,2005-11-12,Spain,Slovakia,5:1,5,1,5:
+275,2006-06-27,Spain,France,1:3,1,3,1:
+276,2006-06-14,Spain,Ukraine,4:0,4,0,4:
+277,2006-05-27,Spain,Russia,0:0,0,0,0:
+278,2007-11-17,Spain,Sweden,3:0,3,0,3:
+279,2007-03-24,Spain,Denmark,2:1,2,1,2:
+280,2008-06-22,Spain,Italy,0:0 (4:2),0,0,4:2
+281,2008-06-10,Spain,Russia,4:1,4,1,4:
+282,2008-03-26,Spain,Italy,1:0,1,0,1:
+283,2008-02-06,Spain,France,1:0,1,0,1:
+284,2009-09-05,Spain,Belgium,5:0,5,0,5:
+285,2009-03-28,Spain,Turkey,1:0,1,0,1:
+286,2009-02-11,Spain,England,2:0,2,0,2:
+287,2010-06-29,Spain,Portugal,1:0,1,0,1:
+288,2010-06-16,Spain,Switzerland,0:1,0,1,0:
+289,2010-06-08,Spain,Poland,6:0,6,0,6:
+290,2011-10-11,Spain,Scotland,3:1,3,1,3:
+291,2011-03-25,Spain,Czech Republic,2:1,2,1,2:
+292,2012-10-16,Spain,France,1:1,1,1,1:
+293,2012-07-01,Spain,Italy,4:0,4,0,4:
+294,2012-06-23,Spain,France,2:0,2,0,2:
+295,2012-06-10,Spain,Italy,1:1,1,1,1:
+296,2013-06-27,Spain,Italy,0:0 (7:6),0,0,7:6
+297,2013-03-22,Spain,Finland,1:1,1,1,1:
+298,2014-11-18,Spain,Germany,0:1,0,1,0:
+299,2014-09-08,Spain,North Macedonia,5:1,5,1,5:
+300,2014-06-13,Spain,Netherlands,1:5,1,5,1:
+301,2014-03-05,Spain,Italy,1:0,1,0,1:
+302,2015-11-13,Spain,England,2:0,2,0,2:
+303,2015-09-05,Spain,Slovakia,2:0,2,0,2:
+304,2015-03-27,Spain,Ukraine,1:0,1,0,1:
+305,2016-11-12,Spain,North Macedonia,4:0,4,0,4:
+306,2016-06-17,Spain,Turkey,3:0,3,0,3:
+307,2016-06-13,Spain,Czech Republic,1:0,1,0,1:
+308,2017-09-02,Spain,Italy,3:0,3,0,3:
+309,2018-10-15,Spain,England,2:3,2,3,2:
+310,2018-09-11,Spain,Croatia,6:0,6,0,6:
+311,2018-07-01,Spain,Russia,1:1 (3:4),1,1,3:4
+312,2018-06-03,Spain,Switzerland,1:1,1,1,1:
+313,2019-06-10,Spain,Sweden,3:0,3,0,3:
+314,2020-11-17,Spain,Germany,6:0,6,0,6:
+315,2020-10-10,Spain,Switzerland,1:0,1,0,1:
+316,2020-09-06,Spain,Ukraine,4:0,4,0,4:
+317,2021-06-04,Spain,Portugal,0:0,0,0,0:
+318,2000-09-02,France,England,1:1,1,1,1:
+319,2000-07-02,France,Italy,2:1 AET,2,1,2:1 AE
+320,2000-06-28,France,Portugal,2:1 AET,2,1,2:1 AE
+321,2000-06-11,France,Denmark,3:0,3,0,3:
+322,2000-02-23,France,Poland,1:0,1,0,1:
+323,2001-08-15,France,Denmark,1:0,1,0,1:
+324,2001-04-25,France,Portugal,4:0,4,0,4:
+325,2001-02-27,France,Germany,1:0,1,0,1:
+326,2002-05-18,France,Belgium,1:2,1,2,1:
+327,2002-04-17,France,Russia,0:0,0,0,0:
+328,2002-03-27,France,Scotland,5:0,5,0,5:
+329,2003-06-26,France,Turkey,3:2,3,2,3:
+330,2003-02-12,France,Czech Republic,0:2,0,2,0:
+331,2004-11-17,France,Poland,0:0,0,0,0:
+332,2004-06-13,France,England,2:1,2,1,2:
+333,2004-06-06,France,Ukraine,1:0,1,0,1:
+334,2005-11-12,France,Germany,0:0,0,0,0:
+335,2005-05-31,France,Hungary,2:1,2,1,2:
+336,2005-03-26,France,Switzerland,0:0,0,0,0:
+337,2005-02-09,France,Sweden,1:1,1,1,1:
+338,2006-09-06,France,Italy,3:1,3,1,3:
+339,2006-06-13,France,Switzerland,0:0,0,0,0:
+340,2006-05-31,France,Denmark,2:0,2,0,2:
+341,2006-03-01,France,Slovakia,1:2,1,2,1:
+342,2007-09-12,France,Scotland,0:1,0,1,0:
+343,2007-06-02,France,Ukraine,2:0,2,0,2:
+344,2007-03-28,France,Austria,1:0,1,0,1:
+345,2008-06-17,France,Italy,0:2,0,2,0:
+346,2008-03-26,France,England,1:0,1,0,1:
+347,2009-10-14,France,Austria,3:1,3,1,3:
+348,2009-06-05,France,Turkey,1:0,1,0,1:
+349,2010-03-03,France,Spain,0:2,0,2,0:
+350,2011-11-15,France,Belgium,0:0,0,0,0:
+351,2011-03-29,France,Croatia,0:0,0,0,0:
+352,2012-06-11,France,England,1:1,1,1,1:
+353,2013-11-19,France,Ukraine,3:0,3,0,3:
+354,2013-10-15,France,Finland,3:0,3,0,3:
+355,2013-03-26,France,Spain,0:1,0,1,0:
+356,2013-02-06,France,Germany,1:2,1,2,1:
+357,2014-11-18,France,Sweden,1:0,1,0,1:
+358,2014-10-11,France,Portugal,2:1,2,1,2:
+359,2014-09-04,France,Spain,1:0,1,0,1:
+360,2014-07-04,France,Germany,0:1,0,1,0:
+361,2014-03-05,France,Netherlands,2:0,2,0,2:
+362,2015-11-13,France,Germany,2:0,2,0,2:
+363,2015-06-07,France,Belgium,3:4,3,4,3:
+364,2015-03-29,France,Denmark,2:0,2,0,2:
+365,2016-11-11,France,Sweden,2:1,2,1,2:
+366,2016-07-10,France,Portugal,0:1 AET,0,1,0:1 AE
+367,2016-07-07,France,Germany,2:0,2,0,2:
+368,2016-06-19,France,Switzerland,0:0,0,0,0:
+369,2016-06-04,France,Scotland,3:0,3,0,3:
+370,2016-03-29,France,Russia,4:2,4,2,4:
+371,2017-11-10,France,Wales,2:0,2,0,2:
+372,2017-08-31,France,Netherlands,4:0,4,0,4:
+373,2017-06-13,France,England,3:2,3,2,3:
+374,2017-03-28,France,Spain,0:2,0,2,0:
+375,2018-10-16,France,Germany,2:1,2,1,2:
+376,2018-09-09,France,Netherlands,2:1,2,1,2:
+377,2018-07-15,France,Croatia,4:2,4,2,4:
+378,2018-07-10,France,Belgium,1:0,1,0,1:
+379,2018-06-01,France,Italy,3:1,3,1,3:
+380,2019-10-14,France,Turkey,1:1,1,1,1:
+381,2020-11-17,France,Sweden,4:2,4,2,4:
+382,2020-11-11,France,Finland,0:2,0,2,0:
+383,2020-10-11,France,Portugal,0:0,0,0,0:
+384,2020-10-07,France,Ukraine,7:1,7,1,7:
+385,2020-09-08,France,Croatia,4:2,4,2,4:
+386,2021-06-02,France,Wales,3:0,3,0,3:
+387,2021-03-24,France,Ukraine,1:1,1,1,1:
+388,2000-11-15,Turkey,France,0:4,0,4,0:
+389,2000-06-24,Turkey,Portugal,0:2,0,2,0:
+390,2000-06-11,Turkey,Italy,1:2,1,2,1:
+391,2001-11-14,Turkey,Austria,5:0,5,0,5:
+392,2001-09-05,Turkey,Sweden,1:2,1,2,1:
+393,2001-06-06,Turkey,North Macedonia,3:3,3,3,3:
+394,2001-03-24,Turkey,Slovakia,1:1,1,1,1:
+395,2002-09-07,Turkey,Slovakia,3:0,3,0,3:
+396,2003-10-11,Turkey,England,0:0,0,0,0:
+397,2003-06-11,Turkey,North Macedonia,3:2,3,2,3:
+398,2003-02-12,Turkey,Ukraine,0:0,0,0,0:
+399,2004-11-17,Turkey,Ukraine,0:3,0,3,0:
+400,2004-02-18,Turkey,Denmark,0:1,0,1,0:
+401,2005-11-16,Turkey,Switzerland,4:2,4,2,4:
+402,2005-10-08,Turkey,Germany,2:1,2,1,2:
+403,2005-09-03,Turkey,Denmark,2:2,2,2,2:
+404,2006-03-01,Turkey,Czech Republic,2:2,2,2,2:
+405,2007-09-12,Turkey,Hungary,3:0,3,0,3:
+406,2008-09-10,Turkey,Belgium,1:1,1,1,1:
+407,2008-06-15,Turkey,Czech Republic,3:2,3,2,3:
+408,2008-05-29,Turkey,Finland,2:0,2,0,2:
+409,2008-05-20,Turkey,Slovakia,1:0,1,0,1:
+410,2008-02-06,Turkey,Sweden,0:0,0,0,0:
+411,2009-04-01,Turkey,Spain,1:2,1,2,1:
+412,2010-09-07,Turkey,Belgium,3:2,3,2,3:
+413,2010-05-22,Turkey,Czech Republic,2:1,2,1,2:
+414,2011-11-11,Turkey,Croatia,0:3,0,3,0:
+415,2011-10-07,Turkey,Germany,1:3,1,3,1:
+416,2011-03-29,Turkey,Austria,2:0,2,0,2:
+417,2012-11-14,Turkey,Denmark,1:1,1,1,1:
+418,2012-02-29,Turkey,Slovakia,1:2,1,2,1:
+419,2013-10-15,Turkey,Netherlands,0:2,0,2,0:
+420,2013-03-26,Turkey,Hungary,1:1,1,1,1:
+421,2013-02-06,Turkey,Czech Republic,0:2,0,2,0:
+422,2014-10-10,Turkey,Czech Republic,1:2,1,2,1:
+423,2014-03-05,Turkey,Sweden,2:1,2,1,2:
+424,2015-09-06,Turkey,Netherlands,3:0,3,0,3:
+425,2016-10-06,Turkey,Ukraine,2:2,2,2,2:
+426,2016-08-31,Turkey,Russia,0:0,0,0,0:
+427,2016-06-12,Turkey,Croatia,0:1,0,1,0:
+428,2016-03-24,Turkey,Sweden,2:1,2,1,2:
+429,2017-09-05,Turkey,Croatia,1:0,1,0,1:
+430,2017-03-24,Turkey,Finland,2:0,2,0,2:
+431,2018-11-20,Turkey,Ukraine,0:0,0,0,0:
+432,2018-11-17,Turkey,Sweden,0:1,0,1,0:
+433,2018-09-07,Turkey,Russia,1:2,1,2,1:
+434,2019-06-08,Turkey,France,2:0,2,0,2:
+435,2020-11-15,Turkey,Russia,3:2,3,2,3:
+436,2020-11-11,Turkey,Croatia,3:3,3,3,3:
+437,2020-09-03,Turkey,Hungary,0:1,0,1,0:
+438,2021-03-24,Turkey,Netherlands,4:2,4,2,4:
+439,2000-10-07,England,Germany,0:1,0,1,0:
+440,2000-06-17,England,Germany,1:0,1,0,1:
+441,2000-05-31,England,Ukraine,2:0,2,0,2:
+442,2001-11-10,England,Sweden,1:1,1,1,1:
+443,2001-08-15,England,Netherlands,0:2,0,2,0:
+444,2001-03-24,England,Finland,2:1,2,1,2:
+445,2001-02-28,England,Spain,3:0,3,0,3:
+446,2002-10-16,England,North Macedonia,2:2,2,2,2:
+447,2002-09-07,England,Portugal,1:1,1,1,1:
+448,2002-06-02,England,Sweden,1:1,1,1,1:
+449,2002-03-27,England,Italy,1:2,1,2,1:
+450,2003-11-16,England,Denmark,2:3,2,3,2:
+451,2003-08-20,England,Croatia,3:1,3,1,3:
+452,2003-06-11,England,Slovakia,2:1,2,1,2:
+453,2003-04-02,England,Turkey,2:0,2,0,2:
+454,2004-10-09,England,Wales,2:0,2,0,2:
+455,2004-08-18,England,Ukraine,3:0,3,0,3:
+456,2004-06-17,England,Switzerland,3:0,3,0,3:
+457,2005-10-12,England,Poland,2:1,2,1,2:
+458,2005-10-08,England,Austria,1:0,1,0,1:
+459,2005-02-09,England,Netherlands,0:0,0,0,0:
+460,2006-10-07,England,North Macedonia,0:0,0,0,0:
+461,2006-07-01,England,Portugal,0:0 (1:3),0,0,1:3
+462,2006-05-30,England,Hungary,3:1,3,1,3:
+463,2007-11-21,England,Croatia,2:3,2,3,2:
+464,2007-09-12,England,Russia,3:0,3,0,3:
+465,2007-08-22,England,Germany,1:2,1,2,1:
+466,2007-02-07,England,Spain,0:1,0,1,0:
+467,2008-08-20,England,Czech Republic,2:2,2,2,2:
+468,2008-02-06,England,Switzerland,2:1,2,1,2:
+469,2009-09-09,England,Croatia,5:1,5,1,5:
+470,2009-04-01,England,Ukraine,2:1,2,1,2:
+471,2009-03-28,England,Slovakia,4:0,4,0,4:
+472,2010-11-17,England,France,1:2,1,2,1:
+473,2010-08-11,England,Hungary,2:1,2,1,2:
+474,2011-11-15,England,Sweden,1:0,1,0,1:
+475,2011-11-12,England,Spain,1:0,1,0,1:
+476,2011-09-06,England,Wales,1:0,1,0,1:
+477,2011-06-04,England,Switzerland,2:2,2,2,2:
+478,2012-09-11,England,Ukraine,1:1,1,1,1:
+479,2012-06-24,England,Italy,0:0 (2:4),0,0,2:4
+480,2012-06-19,England,Ukraine,1:0,1,0,1:
+481,2012-06-02,England,Belgium,1:0,1,0,1:
+482,2012-02-29,England,Netherlands,2:3,2,3,2:
+483,2013-11-19,England,Germany,0:1,0,1,0:
+484,2013-10-15,England,Poland,2:0,2,0,2:
+485,2013-08-14,England,Scotland,3:2,3,2,3:
+486,2014-06-14,England,Italy,1:2,1,2,1:
+487,2014-03-05,England,Denmark,1:0,1,0,1:
+488,2015-11-17,England,France,2:0,2,0,2:
+489,2015-09-08,England,Switzerland,2:0,2,0,2:
+490,2016-11-15,England,Spain,2:2,2,2,2:
+491,2016-11-11,England,Scotland,3:0,3,0,3:
+492,2016-06-16,England,Wales,2:1,2,1,2:
+493,2016-06-11,England,Russia,1:1,1,1,1:
+494,2016-06-02,England,Portugal,1:0,1,0,1:
+495,2016-05-22,England,Turkey,2:1,2,1,2:
+496,2016-03-29,England,Netherlands,1:2,1,2,1:
+497,2017-11-10,England,Germany,0:0,0,0,0:
+498,2017-09-04,England,Slovakia,2:1,2,1,2:
+499,2018-11-18,England,Croatia,2:1,2,1,2:
+500,2018-09-11,England,Switzerland,1:0,1,0,1:
+501,2018-09-08,England,Spain,1:2,1,2,1:
+502,2018-06-28,England,Belgium,0:1,0,1,0:
+503,2018-03-27,England,Italy,1:1,1,1,1:
+504,2019-03-22,England,Czech Republic,5:0,5,0,5:
+505,2020-10-14,England,Denmark,0:1,0,1,0:
+506,2020-10-11,England,Belgium,2:1,2,1,2:
+507,2020-10-08,England,Wales,3:0,3,0,3:
+508,2021-06-02,England,Austria,1:0,1,0,1:
+509,2021-03-31,England,Poland,2:1,2,1,2:
+510,2000-06-16,Czech Republic,France,1:2,1,2,1:
+511,2001-11-14,Czech Republic,Belgium,0:1,0,1,0:
+512,2001-04-25,Czech Republic,Belgium,1:1,1,1,1:
+513,2001-03-28,Czech Republic,Denmark,0:0,0,0,0:
+514,2002-11-20,Czech Republic,Sweden,3:3,3,3,3:
+515,2002-08-21,Czech Republic,Slovakia,4:1,4,1,4:
+516,2002-05-18,Czech Republic,Italy,1:0,1,0,1:
+517,2002-02-12,Czech Republic,Hungary,2:0,2,0,2:
+518,2003-09-10,Czech Republic,Netherlands,3:1,3,1,3:
+519,2003-04-30,Czech Republic,Turkey,4:0,4,0,4:
+520,2003-04-02,Czech Republic,Austria,4:0,4,0,4:
+521,2004-06-27,Czech Republic,Denmark,3:0,3,0,3:
+522,2005-10-08,Czech Republic,Netherlands,0:2,0,2,0:
+523,2005-06-08,Czech Republic,North Macedonia,6:1,6,1,6:
+524,2005-03-26,Czech Republic,Finland,4:3,4,3,4:
+525,2006-11-15,Czech Republic,Denmark,1:1,1,1,1:
+526,2006-09-02,Czech Republic,Wales,2:1,2,1,2:
+527,2006-06-22,Czech Republic,Italy,0:2,0,2,0:
+528,2007-11-17,Czech Republic,Slovakia,3:1,3,1,3:
+529,2007-03-24,Czech Republic,Germany,1:2,1,2,1:
+530,2008-06-11,Czech Republic,Portugal,1:3,1,3,1:
+531,2008-05-30,Czech Republic,Scotland,3:1,3,1,3:
+532,2008-02-06,Czech Republic,Poland,2:0,2,0,2:
+533,2009-10-10,Czech Republic,Poland,2:0,2,0,2:
+534,2009-08-12,Czech Republic,Belgium,3:1,3,1,3:
+535,2009-04-01,Czech Republic,Slovakia,1:2,1,2,1:
+536,2010-10-08,Czech Republic,Scotland,1:0,1,0,1:
+537,2011-10-07,Czech Republic,Spain,0:2,0,2,0:
+538,2011-09-06,Czech Republic,Ukraine,4:0,4,0,4:
+539,2012-11-14,Czech Republic,Slovakia,3:0,3,0,3:
+540,2012-09-11,Czech Republic,Finland,0:1,0,1,0:
+541,2012-06-21,Czech Republic,Portugal,0:1,0,1,0:
+542,2012-06-01,Czech Republic,Hungary,1:2,1,2,1:
+543,2013-06-07,Czech Republic,Italy,0:0,0,0,0:
+544,2013-03-22,Czech Republic,Denmark,0:3,0,3,0:
+545,2014-09-09,Czech Republic,Netherlands,2:1,2,1,2:
+546,2014-06-03,Czech Republic,Austria,1:2,1,2,1:
+547,2015-10-10,Czech Republic,Turkey,0:2,0,2,0:
+548,2016-11-15,Czech Republic,Denmark,1:1,1,1,1:
+549,2016-06-21,Czech Republic,Turkey,0:2,0,2,0:
+550,2016-06-17,Czech Republic,Croatia,2:2,2,2,2:
+551,2016-06-01,Czech Republic,Russia,2:1,2,1,2:
+552,2016-03-24,Czech Republic,Scotland,0:1,0,1,0:
+553,2017-09-01,Czech Republic,Germany,1:2,1,2,1:
+554,2018-11-19,Czech Republic,Slovakia,1:0,1,0,1:
+555,2018-09-06,Czech Republic,Ukraine,1:2,1,2,1:
+556,2019-10-11,Czech Republic,England,2:1,2,1,2:
+557,2020-11-18,Czech Republic,Slovakia,2:0,2,0,2:
+558,2020-09-07,Czech Republic,Scotland,1:2,1,2,1:
+559,2021-03-27,Czech Republic,Belgium,1:1,1,1,1:
+560,2000-10-11,Finland,England,0:0,0,0,0:
+561,2001-08-15,Finland,Belgium,4:1,4,1,4:
+562,2001-06-02,Finland,Germany,2:2,2,2,2:
+563,2002-09-07,Finland,Wales,0:2,0,2,0:
+564,2002-01-10,Finland,North Macedonia,3:0,3,0,3:
+565,2003-06-11,Finland,Italy,0:2,0,2,0:
+566,2004-05-28,Finland,Sweden,1:3,1,3,1:
+567,2005-10-12,Finland,Czech Republic,0:3,0,3,0:
+568,2005-09-07,Finland,North Macedonia,5:1,5,1,5:
+569,2005-06-08,Finland,Netherlands,0:4,0,4,0:
+570,2005-06-02,Finland,Denmark,0:1,0,1,0:
+571,2006-09-06,Finland,Portugal,1:1,1,1,1:
+572,2007-10-17,Finland,Spain,0:0,0,0,0:
+573,2007-09-12,Finland,Poland,0:0,0,0,0:
+574,2007-06-06,Finland,Belgium,2:0,2,0,2:
+575,2008-09-10,Finland,Germany,3:3,3,3,3:
+576,2008-02-02,Finland,Poland,0:1,0,1,0:
+577,2009-10-10,Finland,Wales,2:1,2,1,2:
+578,2009-06-10,Finland,Russia,0:3,0,3,0:
+579,2010-10-12,Finland,Hungary,1:2,1,2,1:
+580,2010-08-11,Finland,Belgium,1:0,1,0,1:
+581,2011-10-07,Finland,Sweden,1:2,1,2,1:
+582,2011-09-06,Finland,Netherlands,0:2,0,2,0:
+583,2012-09-07,Finland,France,0:1,0,1,0:
+584,2012-05-26,Finland,Turkey,3:2,3,2,3:
+585,2013-09-06,Finland,Spain,0:2,0,2,0:
+586,2014-05-21,Finland,Czech Republic,2:2,2,2,2:
+587,2015-06-13,Finland,Hungary,0:1,0,1,0:
+588,2016-10-09,Finland,Croatia,0:1,0,1,0:
+589,2016-01-10,Finland,Sweden,0:3,0,3,0:
+590,2017-10-09,Finland,Turkey,2:2,2,2,2:
+591,2017-06-11,Finland,Ukraine,1:2,1,2,1:
+592,2018-09-08,Finland,Hungary,1:0,1,0,1:
+593,2018-03-23,Finland,North Macedonia,0:0,0,0,0:
+594,2019-09-08,Finland,Italy,1:2,1,2,1:
+595,2020-09-03,Finland,Wales,0:1,0,1,0:
+596,2000-10-07,Sweden,Turkey,1:1,1,1,1:
+597,2000-06-15,Sweden,Turkey,0:0,0,0,0:
+598,2000-06-03,Sweden,Spain,1:1,1,1,1:
+599,2001-06-02,Sweden,Slovakia,2:0,2,0,2:
+600,2001-03-24,Sweden,North Macedonia,1:0,1,0,1:
+601,2001-02-01,Sweden,Finland,0:1,0,1,0:
+602,2002-10-16,Sweden,Portugal,2:3,2,3,2:
+603,2002-10-12,Sweden,Hungary,1:1,1,1,1:
+604,2002-03-27,Sweden,Switzerland,1:1,1,1,1:
+605,2003-06-11,Sweden,Poland,3:0,3,0,3:
+606,2003-04-30,Sweden,Croatia,1:2,1,2,1:
+607,2004-10-09,Sweden,Hungary,3:0,3,0,3:
+608,2004-09-08,Sweden,Croatia,0:1,0,1,0:
+609,2004-08-18,Sweden,Netherlands,2:2,2,2,2:
+610,2004-06-26,Sweden,Netherlands,0:0 (4:5),0,0,4:5
+611,2004-06-05,Sweden,Poland,3:1,3,1,3:
+612,2004-03-31,Sweden,England,1:0,1,0,1:
+613,2005-08-17,Sweden,Czech Republic,2:1,2,1,2:
+614,2006-10-07,Sweden,Spain,2:0,2,0,2:
+615,2006-06-20,Sweden,England,2:2,2,2,2:
+616,2006-05-25,Sweden,Finland,0:0,0,0,0:
+617,2007-09-08,Sweden,Denmark,0:0,0,0,0:
+618,2008-10-11,Sweden,Portugal,0:0,0,0,0:
+619,2008-09-10,Sweden,Hungary,2:1,2,1,2:
+620,2008-08-20,Sweden,France,2:3,2,3,2:
+621,2008-06-14,Sweden,Spain,1:2,1,2,1:
+622,2008-06-01,Sweden,Ukraine,0:1,0,1,0:
+623,2009-08-12,Sweden,Finland,1:0,1,0,1:
+624,2009-06-06,Sweden,Denmark,0:1,0,1,0:
+625,2010-11-17,Sweden,Germany,0:0,0,0,0:
+626,2010-09-03,Sweden,Hungary,2:0,2,0,2:
+627,2010-08-11,Sweden,Scotland,3:0,3,0,3:
+628,2011-10-11,Sweden,Netherlands,3:2,3,2,3:
+629,2011-06-07,Sweden,Finland,5:0,5,0,5:
+630,2011-02-09,Sweden,Ukraine,1:1 (4:5),1,1,4:5
+631,2012-11-14,Sweden,England,4:2,4,2,4:
+632,2012-06-19,Sweden,France,2:0,2,0,2:
+633,2012-06-15,Sweden,England,2:3,2,3,2:
+634,2013-11-19,Sweden,Portugal,2:3,2,3,2:
+635,2013-10-15,Sweden,Germany,3:5,3,5,3:
+636,2013-10-11,Sweden,Austria,2:1,2,1,2:
+637,2013-06-03,Sweden,North Macedonia,1:0,1,0,1:
+638,2013-01-26,Sweden,Finland,3:0,3,0,3:
+639,2014-10-09,Sweden,Russia,1:1,1,1,1:
+640,2014-06-01,Sweden,Belgium,0:2,0,2,0:
+641,2015-11-14,Sweden,Denmark,2:1,2,1,2:
+642,2015-09-08,Sweden,Austria,1:4,1,4,1:
+643,2015-01-19,Sweden,Finland,0:1,0,1,0:
+644,2016-09-06,Sweden,Netherlands,1:1,1,1,1:
+645,2016-06-22,Sweden,Belgium,0:1,0,1,0:
+646,2016-06-05,Sweden,Wales,3:0,3,0,3:
+647,2016-03-29,Sweden,Czech Republic,1:1,1,1,1:
+648,2017-11-10,Sweden,Italy,1:0,1,0,1:
+649,2017-06-09,Sweden,France,2:1,2,1,2:
+650,2017-01-12,Sweden,Slovakia,6:0,6,0,6:
+651,2018-11-20,Sweden,Russia,2:0,2,0,2:
+652,2018-10-16,Sweden,Slovakia,1:1,1,1,1:
+653,2018-09-10,Sweden,Turkey,2:3,2,3,2:
+654,2018-07-07,Sweden,England,0:2,0,2,0:
+655,2018-07-03,Sweden,Switzerland,1:0,1,0,1:
+656,2018-06-02,Sweden,Denmark,0:0,0,0,0:
+657,2019-10-15,Sweden,Spain,1:1,1,1,1:
+658,2019-01-08,Sweden,Finland,0:1,0,1,0:
+659,2020-11-14,Sweden,Croatia,2:1,2,1,2:
+660,2020-09-08,Sweden,Portugal,0:2,0,2,0:
+661,2020-09-05,Sweden,France,0:1,0,1,0:
+662,2021-05-29,Sweden,Finland,2:0,2,0,2:
+663,2000-10-11,Croatia,Scotland,1:1,1,1,1:
+664,2000-05-28,Croatia,France,0:2,0,2,0:
+665,2000-03-29,Croatia,Germany,1:1,1,1,1:
+666,2000-02-23,Croatia,Spain,0:0,0,0,0:
+667,2001-10-06,Croatia,Belgium,1:0,1,0,1:
+668,2001-02-28,Croatia,Austria,1:0,1,0,1:
+669,2002-08-21,Croatia,Wales,1:1,1,1,1:
+670,2003-03-29,Croatia,Belgium,4:0,4,0,4:
+671,2003-02-12,Croatia,Poland,0:0,0,0,0:
+672,2003-02-09,Croatia,North Macedonia,2:2,2,2,2:
+673,2004-09-04,Croatia,Hungary,3:0,3,0,3:
+674,2004-06-21,Croatia,England,2:4,2,4,2:
+675,2004-06-17,Croatia,France,2:2,2,2,2:
+676,2004-05-29,Croatia,Slovakia,1:0,1,0,1:
+677,2004-03-31,Croatia,Turkey,2:2,2,2,2:
+678,2004-02-18,Croatia,Germany,1:2,1,2,1:
+679,2005-10-08,Croatia,Sweden,1:0,1,0,1:
+680,2006-10-11,Croatia,England,2:0,2,0,2:
+681,2006-06-07,Croatia,Spain,1:2,1,2,1:
+682,2007-10-16,Croatia,Slovakia,3:0,3,0,3:
+683,2007-06-06,Croatia,Russia,0:0,0,0,0:
+684,2007-03-24,Croatia,North Macedonia,2:1,2,1,2:
+685,2008-09-10,Croatia,England,1:4,1,4,1:
+686,2008-06-20,Croatia,Turkey,1:1 (1:3),1,1,1:3
+687,2008-06-12,Croatia,Germany,2:1,2,1,2:
+688,2008-02-06,Croatia,Netherlands,0:3,0,3,0:
+689,2009-06-06,Croatia,Ukraine,2:2,2,2,2:
+690,2010-05-23,Croatia,Wales,2:0,2,0,2:
+691,2011-11-15,Croatia,Turkey,0:0,0,0,0:
+692,2011-02-09,Croatia,Czech Republic,4:2,4,2,4:
+693,2012-10-16,Croatia,Wales,2:0,2,0,2:
+694,2012-09-07,Croatia,North Macedonia,1:0,1,0,1:
+695,2012-08-15,Croatia,Switzerland,2:4,2,4,2:
+696,2012-06-18,Croatia,Spain,0:1,0,1,0:
+697,2012-02-29,Croatia,Sweden,1:3,1,3,1:
+698,2013-10-11,Croatia,Belgium,1:2,1,2,1:
+699,2013-06-10,Croatia,Portugal,0:1,0,1,0:
+700,2013-06-07,Croatia,Scotland,0:1,0,1,0:
+701,2015-06-12,Croatia,Italy,1:1,1,1,1:
+702,2016-09-05,Croatia,Turkey,1:1,1,1,1:
+703,2016-06-25,Croatia,Portugal,0:1 AET,0,1,0:1 AE
+704,2016-06-21,Croatia,Spain,2:1,2,1,2:
+705,2017-10-06,Croatia,Finland,1:1,1,1,1:
+706,2017-03-24,Croatia,Ukraine,1:0,1,0,1:
+707,2018-11-15,Croatia,Spain,3:2,3,2,3:
+708,2018-10-12,Croatia,England,0:0,0,0,0:
+709,2018-07-11,Croatia,England,2:1 AET,2,1,2:1 AE
+710,2018-07-01,Croatia,Denmark,1:1 (3:2),1,1,3:2
+711,2019-11-16,Croatia,Slovakia,3:1,3,1,3:
+712,2019-10-10,Croatia,Hungary,3:0,3,0,3:
+713,2019-06-08,Croatia,Wales,2:1,2,1,2:
+714,2020-11-17,Croatia,Portugal,2:3,2,3,2:
+715,2020-10-14,Croatia,France,1:2,1,2,1:
+716,2020-10-11,Croatia,Sweden,2:1,2,1,2:
+717,2000-10-11,Austria,Spain,1:1,1,1,1:
+718,2000-04-26,Austria,Croatia,1:2,1,2,1:
+719,2000-03-29,Austria,Sweden,1:1,1,1,1:
+720,2001-11-10,Austria,Turkey,0:1,0,1,0:
+721,2001-08-15,Austria,Switzerland,1:2,1,2,1:
+722,2002-10-16,Austria,Netherlands,0:3,0,3,0:
+723,2002-03-27,Austria,Slovakia,2:0,2,0,2:
+724,2003-10-11,Austria,Czech Republic,2:3,2,3,2:
+725,2004-10-09,Austria,Poland,1:3,1,3,1:
+726,2004-09-04,Austria,England,2:2,2,2,2:
+727,2004-08-18,Austria,Germany,1:3,1,3,1:
+728,2004-05-25,Austria,Russia,0:0,0,0,0:
+729,2005-08-17,Austria,Scotland,2:2,2,2,2:
+730,2005-03-30,Austria,Wales,1:0,1,0,1:
+731,2006-10-11,Austria,Switzerland,2:1,2,1,2:
+732,2006-08-16,Austria,Hungary,1:2,1,2,1:
+733,2006-05-23,Austria,Croatia,1:4,1,4,1:
+734,2007-11-16,Austria,England,0:1,0,1,0:
+735,2007-08-22,Austria,Czech Republic,1:1,1,1,1:
+736,2007-05-30,Austria,Scotland,0:1,0,1,0:
+737,2008-11-19,Austria,Turkey,2:4,2,4,2:
+738,2008-09-06,Austria,France,3:1,3,1,3:
+739,2008-06-16,Austria,Germany,0:1,0,1,0:
+740,2008-06-12,Austria,Poland,1:1,1,1,1:
+741,2008-06-08,Austria,Croatia,0:1,0,1,0:
+742,2008-03-26,Austria,Netherlands,3:4,3,4,3:
+743,2008-02-06,Austria,Germany,0:3,0,3,0:
+744,2009-11-18,Austria,Spain,1:5,1,5,1:
+745,2009-02-11,Austria,Sweden,0:2,0,2,0:
+746,2010-08-11,Austria,Switzerland,0:1,0,1,0:
+747,2010-05-19,Austria,Croatia,0:1,0,1,0:
+748,2010-03-03,Austria,Denmark,2:1,2,1,2:
+749,2011-09-06,Austria,Turkey,0:0,0,0,0:
+750,2011-08-10,Austria,Slovakia,1:2,1,2,1:
+751,2011-06-03,Austria,Germany,1:2,1,2,1:
+752,2011-03-25,Austria,Belgium,0:2,0,2,0:
+753,2012-09-11,Austria,Germany,1:2,1,2,1:
+754,2012-08-15,Austria,Turkey,2:0,2,0,2:
+755,2012-06-01,Austria,Ukraine,3:2,3,2,3:
+756,2012-02-29,Austria,Finland,3:1,3,1,3:
+757,2013-06-07,Austria,Sweden,2:1,2,1,2:
+758,2014-11-15,Austria,Russia,1:0,1,0,1:
+759,2014-09-08,Austria,Sweden,1:1,1,1,1:
+760,2015-11-17,Austria,Switzerland,1:2,1,2,1:
+761,2016-11-15,Austria,Slovakia,0:0,0,0,0:
+762,2016-10-06,Austria,Wales,2:2,2,2,2:
+763,2016-06-14,Austria,Hungary,0:2,0,2,0:
+764,2016-06-04,Austria,Netherlands,0:2,0,2,0:
+765,2016-03-29,Austria,Turkey,1:2,1,2,1:
+766,2017-03-28,Austria,Finland,1:1,1,1,1:
+767,2018-09-06,Austria,Sweden,2:0,2,0,2:
+768,2018-06-02,Austria,Germany,2:1,2,1,2:
+769,2018-05-30,Austria,Russia,1:0,1,0,1:
+770,2019-11-16,Austria,North Macedonia,2:1,2,1,2:
+771,2019-03-21,Austria,Poland,0:1,0,1,0:
+772,2021-06-06,Austria,Slovakia,0:0,0,0,0:
+773,2021-03-31,Austria,Denmark,0:4,0,4,0:
+774,2000-10-11,Netherlands,Portugal,0:2,0,2,0:
+775,2000-06-29,Netherlands,Italy,0:0 (1:3),0,0,1:3
+776,2000-06-21,Netherlands,France,3:2,3,2,3:
+777,2000-06-16,Netherlands,Denmark,3:0,3,0,3:
+778,2000-06-11,Netherlands,Czech Republic,1:0,1,0,1:
+779,2000-06-04,Netherlands,Poland,3:1,3,1,3:
+780,2000-04-26,Netherlands,Scotland,0:0,0,0,0:
+781,2000-02-23,Netherlands,Germany,2:1,2,1,2:
+782,2001-02-28,Netherlands,Turkey,0:0,0,0,0:
+783,2002-03-27,Netherlands,Spain,1:0,1,0,1:
+784,2002-02-13,Netherlands,England,1:1,1,1,1:
+785,2003-11-19,Netherlands,Scotland,6:0,6,0,6:
+786,2003-09-06,Netherlands,Austria,3:1,3,1,3:
+787,2003-04-30,Netherlands,Portugal,1:1,1,1,1:
+788,2003-03-29,Netherlands,Czech Republic,1:1,1,1,1:
+789,2004-10-13,Netherlands,Finland,3:1,3,1,3:
+790,2004-09-08,Netherlands,Czech Republic,2:0,2,0,2:
+791,2004-06-19,Netherlands,Czech Republic,2:3,2,3,2:
+792,2004-05-29,Netherlands,Belgium,0:1,0,1,0:
+793,2004-03-31,Netherlands,France,0:0,0,0,0:
+794,2005-11-12,Netherlands,Italy,1:3,1,3,1:
+795,2005-10-12,Netherlands,North Macedonia,0:0,0,0,0:
+796,2005-08-17,Netherlands,Germany,2:2,2,2,2:
+797,2006-11-15,Netherlands,England,1:1,1,1,1:
+798,2007-02-07,Netherlands,Russia,4:1,4,1,4:
+799,2008-11-19,Netherlands,Sweden,3:1,3,1,3:
+800,2008-06-21,Netherlands,Russia,1:3,1,3,1:
+801,2008-06-13,Netherlands,France,4:1,4,1,4:
+802,2008-06-09,Netherlands,Italy,3:0,3,0,3:
+803,2008-06-01,Netherlands,Wales,2:0,2,0,2:
+804,2008-05-29,Netherlands,Denmark,1:1,1,1,1:
+805,2008-05-24,Netherlands,Ukraine,3:0,3,0,3:
+806,2009-08-12,Netherlands,England,2:2,2,2,2:
+807,2009-04-01,Netherlands,North Macedonia,4:0,4,0,4:
+808,2009-03-28,Netherlands,Scotland,3:0,3,0,3:
+809,2010-11-17,Netherlands,Turkey,1:0,1,0,1:
+810,2010-10-12,Netherlands,Sweden,4:1,4,1,4:
+811,2010-09-07,Netherlands,Finland,2:1,2,1,2:
+812,2010-07-11,Netherlands,Spain,0:1 AET,0,1,0:1 AE
+813,2010-06-28,Netherlands,Slovakia,2:1,2,1,2:
+814,2010-06-14,Netherlands,Denmark,2:0,2,0,2:
+815,2010-06-05,Netherlands,Hungary,6:1,6,1,6:
+816,2011-11-11,Netherlands,Switzerland,0:0,0,0,0:
+817,2011-03-29,Netherlands,Hungary,5:3,5,3,5:
+818,2011-02-09,Netherlands,Austria,3:1,3,1,3:
+819,2012-11-14,Netherlands,Germany,0:0,0,0,0:
+820,2012-09-07,Netherlands,Turkey,2:0,2,0,2:
+821,2012-06-13,Netherlands,Germany,1:2,1,2,1:
+822,2012-06-09,Netherlands,Denmark,0:1,0,1,0:
+823,2012-05-30,Netherlands,Slovakia,2:0,2,0,2:
+824,2013-10-11,Netherlands,Hungary,8:1,8,1,8:
+825,2013-02-06,Netherlands,Italy,1:1,1,1,1:
+826,2014-06-04,Netherlands,Wales,2:0,2,0,2:
+827,2015-10-13,Netherlands,Czech Republic,2:3,2,3,2:
+828,2015-03-31,Netherlands,Spain,2:0,2,0,2:
+829,2015-03-28,Netherlands,Turkey,1:1,1,1,1:
+830,2016-11-09,Netherlands,Belgium,1:1,1,1,1:
+831,2016-10-10,Netherlands,France,0:1,0,1,0:
+832,2016-03-25,Netherlands,France,2:3,2,3,2:
+833,2017-10-10,Netherlands,Sweden,2:0,2,0,2:
+834,2017-03-28,Netherlands,Italy,1:2,1,2,1:
+835,2018-11-16,Netherlands,France,2:0,2,0,2:
+836,2018-10-13,Netherlands,Germany,3:0,3,0,3:
+837,2018-03-23,Netherlands,England,0:1,0,1,0:
+838,2019-06-06,Netherlands,England,3:1 AET,3,1,3:1 AE
+839,2019-03-24,Netherlands,Germany,2:3,2,3,2:
+840,2020-11-11,Netherlands,Spain,1:1,1,1,1:
+841,2020-09-07,Netherlands,Italy,0:1,0,1,0:
+842,2020-09-04,Netherlands,Poland,1:0,1,0,1:
+843,2021-06-02,Netherlands,Scotland,2:2,2,2,2:
+844,2000-08-16,Germany,Spain,4:1,4,1,4:
+845,2000-06-03,Germany,Czech Republic,3:2,3,2,3:
+846,2000-04-26,Germany,Switzerland,1:1,1,1,1:
+847,2001-11-14,Germany,Ukraine,4:1,4,1,4:
+848,2001-10-06,Germany,Finland,0:0,0,0,0:
+849,2001-09-01,Germany,England,1:5,1,5,1:
+850,2001-05-29,Germany,Slovakia,2:0,2,0,2:
+851,2002-11-20,Germany,Netherlands,1:3,1,3,1:
+852,2002-05-18,Germany,Austria,6:2,6,2,6:
+853,2003-11-15,Germany,France,0:3,0,3,0:
+854,2003-09-10,Germany,Scotland,2:1,2,1,2:
+855,2003-08-20,Germany,Italy,0:1,0,1,0:
+856,2004-06-23,Germany,Czech Republic,1:2,1,2,1:
+857,2004-06-15,Germany,Netherlands,1:1,1,1,1:
+858,2004-06-06,Germany,Hungary,0:2,0,2,0:
+859,2004-03-31,Germany,Belgium,3:0,3,0,3:
+860,2005-06-08,Germany,Russia,2:2,2,2,2:
+861,2006-08-16,Germany,Sweden,3:0,3,0,3:
+862,2006-07-08,Germany,Portugal,3:1,3,1,3:
+863,2006-07-04,Germany,Italy,0:2,0,2,0:
+864,2006-06-24,Germany,Sweden,2:0,2,0,2:
+865,2006-06-14,Germany,Poland,1:0,1,0,1:
+866,2007-11-21,Germany,Wales,0:0,0,0,0:
+867,2007-10-17,Germany,Czech Republic,0:3,0,3,0:
+868,2007-06-06,Germany,Slovakia,2:1,2,1,2:
+869,2007-03-28,Germany,Denmark,0:1,0,1,0:
+870,2007-02-07,Germany,Switzerland,3:1,3,1,3:
+871,2008-11-19,Germany,England,1:2,1,2,1:
+872,2008-10-15,Germany,Wales,1:0,1,0,1:
+873,2008-10-11,Germany,Russia,2:1,2,1,2:
+874,2008-08-20,Germany,Belgium,2:0,2,0,2:
+875,2008-06-29,Germany,Spain,0:1,0,1,0:
+876,2008-06-25,Germany,Turkey,3:2,3,2,3:
+877,2008-06-08,Germany,Poland,2:0,2,0,2:
+878,2009-10-14,Germany,Finland,1:1,1,1,1:
+879,2010-10-08,Germany,Turkey,3:0,3,0,3:
+880,2010-07-07,Germany,Spain,0:1,0,1,0:
+881,2010-06-27,Germany,England,4:1,4,1,4:
+882,2011-11-15,Germany,Netherlands,3:0,3,0,3:
+883,2011-10-11,Germany,Belgium,3:1,3,1,3:
+884,2011-09-02,Germany,Austria,6:2,6,2,6:
+885,2011-02-09,Germany,Italy,1:1,1,1,1:
+886,2012-10-16,Germany,Sweden,4:4,4,4,4:
+887,2012-06-28,Germany,Italy,1:2,1,2,1:
+888,2012-06-09,Germany,Portugal,1:0,1,0,1:
+889,2012-02-29,Germany,France,1:2,1,2,1:
+890,2013-09-06,Germany,Austria,3:0,3,0,3:
+891,2014-09-07,Germany,Scotland,2:1,2,1,2:
+892,2014-06-16,Germany,Portugal,4:0,4,0,4:
+893,2014-05-13,Germany,Poland,0:0,0,0,0:
+894,2015-09-04,Germany,Poland,3:1,3,1,3:
+895,2016-10-08,Germany,Czech Republic,3:0,3,0,3:
+896,2016-08-31,Germany,Finland,2:0,2,0,2:
+897,2016-07-02,Germany,Italy,1:1 (6:5),1,1,6:5
+898,2016-06-26,Germany,Slovakia,3:0,3,0,3:
+899,2016-06-16,Germany,Poland,0:0,0,0,0:
+900,2016-06-12,Germany,Ukraine,2:0,2,0,2:
+901,2016-06-04,Germany,Hungary,2:0,2,0,2:
+902,2016-05-29,Germany,Slovakia,1:3,1,3,1:
+903,2016-03-29,Germany,Italy,4:1,4,1,4:
+904,2016-03-26,Germany,England,2:3,2,3,2:
+905,2017-11-14,Germany,France,2:2,2,2,2:
+906,2017-03-22,Germany,England,1:0,1,0,1:
+907,2018-11-19,Germany,Netherlands,2:2,2,2,2:
+908,2018-11-15,Germany,Russia,3:0,3,0,3:
+909,2018-09-06,Germany,France,0:0,0,0,0:
+910,2018-06-23,Germany,Sweden,2:1,2,1,2:
+911,2018-03-23,Germany,Spain,1:1,1,1,1:
+912,2019-09-06,Germany,Netherlands,2:4,2,4,2:
+913,2020-11-14,Germany,Ukraine,3:1,3,1,3:
+914,2020-11-11,Germany,Czech Republic,1:0,1,0,1:
+915,2020-10-13,Germany,Switzerland,3:3,3,3,3:
+916,2020-10-07,Germany,Turkey,3:3,3,3,3:
+917,2020-09-03,Germany,Spain,1:1,1,1,1:
+918,2021-06-02,Germany,Denmark,1:1,1,1,1:
+919,2021-03-31,Germany,North Macedonia,1:2,1,2,1:
+920,2000-06-20,Portugal,Germany,3:0,3,0,3:
+921,2000-06-12,Portugal,England,3:2,3,2,3:
+922,2000-06-02,Portugal,Wales,3:0,3,0,3:
+923,2000-03-29,Portugal,Denmark,2:1,2,1,2:
+924,2001-03-28,Portugal,Netherlands,2:2,2,2,2:
+925,2002-11-20,Portugal,Scotland,2:0,2,0,2:
+926,2002-06-10,Portugal,Poland,4:0,4,0,4:
+927,2002-03-27,Portugal,Finland,1:4,1,4,1:
+928,2003-09-06,Portugal,Spain,0:3,0,3,0:
+929,2004-10-13,Portugal,Russia,7:1,7,1,7:
+930,2004-06-30,Portugal,Netherlands,2:1,2,1,2:
+931,2004-06-24,Portugal,England,2:2 (6:5),2,2,6:5
+932,2004-06-20,Portugal,Spain,1:0,1,0,1:
+933,2004-06-16,Portugal,Russia,2:0,2,0,2:
+934,2004-04-28,Portugal,Sweden,2:2,2,2,2:
+935,2004-03-31,Portugal,Italy,1:2,1,2,1:
+936,2004-02-18,Portugal,England,1:1,1,1,1:
+937,2005-11-12,Portugal,Croatia,2:0,2,0,2:
+938,2005-06-04,Portugal,Slovakia,2:0,2,0,2:
+939,2006-07-05,Portugal,France,0:1,0,1,0:
+940,2006-06-25,Portugal,Netherlands,1:0,1,0,1:
+941,2007-11-21,Portugal,Finland,0:0,0,0,0:
+942,2007-09-08,Portugal,Poland,2:2,2,2,2:
+943,2007-03-24,Portugal,Belgium,4:0,4,0,4:
+944,2008-09-10,Portugal,Denmark,2:3,2,3,2:
+945,2008-06-19,Portugal,Germany,2:3,2,3,2:
+946,2008-06-07,Portugal,Turkey,2:0,2,0,2:
+947,2009-10-10,Portugal,Hungary,3:0,3,0,3:
+948,2009-03-28,Portugal,Sweden,0:0,0,0,0:
+949,2009-02-11,Portugal,Finland,1:0,1,0,1:
+950,2010-11-17,Portugal,Spain,4:0,4,0,4:
+951,2010-10-08,Portugal,Denmark,3:1,3,1,3:
+952,2011-03-29,Portugal,Finland,2:0,2,0,2:
+953,2012-06-27,Portugal,Spain,0:0 (2:4),0,0,2:4
+954,2012-06-17,Portugal,Netherlands,2:1,2,1,2:
+955,2012-06-02,Portugal,Turkey,1:3,1,3,1:
+956,2012-05-26,Portugal,North Macedonia,0:0,0,0,0:
+957,2013-11-15,Portugal,Sweden,1:0,1,0,1:
+958,2013-08-14,Portugal,Netherlands,1:1,1,1,1:
+959,2013-06-07,Portugal,Russia,1:0,1,0,1:
+960,2015-10-08,Portugal,Denmark,1:0,1,0,1:
+961,2015-09-04,Portugal,France,0:1,0,1,0:
+962,2016-07-06,Portugal,Wales,2:0,2,0,2:
+963,2016-06-18,Portugal,Austria,0:0,0,0,0:
+964,2016-03-29,Portugal,Belgium,2:1,2,1,2:
+965,2017-10-10,Portugal,Switzerland,2:0,2,0,2:
+966,2017-03-28,Portugal,Sweden,2:3,2,3,2:
+967,2017-03-25,Portugal,Hungary,3:0,3,0,3:
+968,2018-11-20,Portugal,Poland,1:1,1,1,1:
+969,2018-09-10,Portugal,Italy,1:0,1,0,1:
+970,2018-09-06,Portugal,Croatia,1:1,1,1,1:
+971,2018-06-15,Portugal,Spain,3:3,3,3,3:
+972,2018-03-26,Portugal,Netherlands,0:3,0,3,0:
+973,2019-06-09,Portugal,Netherlands,1:0,1,0,1:
+974,2019-06-05,Portugal,Switzerland,3:1,3,1,3:
+975,2019-03-22,Portugal,Ukraine,0:0,0,0,0:
+976,2020-11-14,Portugal,France,0:1,0,1,0:
+977,2020-10-14,Portugal,Sweden,3:0,3,0,3:
+978,2020-10-07,Portugal,Spain,0:0,0,0,0:
+979,2020-09-05,Portugal,Croatia,4:1,4,1,4:
+980,2000-09-02,Switzerland,Russia,0:1,0,1,0:
+981,2001-04-25,Switzerland,Sweden,0:2,0,2,0:
+982,2002-08-21,Switzerland,Austria,3:2,3,2,3:
+983,2003-08-20,Switzerland,France,0:2,0,2,0:
+984,2003-06-07,Switzerland,Russia,2:2,2,2,2:
+985,2003-04-30,Switzerland,Italy,1:2,1,2,1:
+986,2004-06-21,Switzerland,France,1:3,1,3,1:
+987,2004-06-13,Switzerland,Croatia,0:0,0,0,0:
+988,2004-06-02,Switzerland,Germany,0:2,0,2,0:
+989,2005-11-12,Switzerland,Turkey,2:0,2,0,2:
+990,2005-10-08,Switzerland,France,1:1,1,1,1:
+991,2006-06-26,Switzerland,Ukraine,0:0 (0:3),0,0,0:3
+992,2006-05-31,Switzerland,Italy,1:1,1,1,1:
+993,2007-10-13,Switzerland,Austria,3:1,3,1,3:
+994,2007-08-22,Switzerland,Netherlands,2:1,2,1,2:
+995,2008-11-19,Switzerland,Finland,1:0,1,0,1:
+996,2008-06-15,Switzerland,Portugal,2:0,2,0,2:
+997,2008-06-11,Switzerland,Turkey,1:2,1,2,1:
+998,2008-06-07,Switzerland,Czech Republic,0:1,0,1,0:
+999,2008-05-24,Switzerland,Slovakia,2:0,2,0,2:
+1000,2008-03-26,Switzerland,Germany,0:4,0,4,0:
+1001,2009-08-12,Switzerland,Italy,0:0,0,0,0:
+1002,2010-11-17,Switzerland,Ukraine,2:2,2,2,2:
+1003,2010-10-12,Switzerland,Wales,4:1,4,1,4:
+1004,2010-09-07,Switzerland,England,1:3,1,3,1:
+1005,2010-06-05,Switzerland,Italy,1:1,1,1,1:
+1006,2012-05-26,Switzerland,Germany,5:3,5,3,5:
+1007,2014-09-08,Switzerland,England,0:2,0,2,0:
+1008,2014-06-20,Switzerland,France,2:5,2,5,2:
+1009,2014-03-05,Switzerland,Croatia,2:2,2,2,2:
+1010,2016-09-06,Switzerland,Portugal,2:0,2,0,2:
+1011,2016-06-25,Switzerland,Poland,1:1 (4:5),1,1,4:5
+1012,2016-05-28,Switzerland,Belgium,1:2,1,2,1:
+1013,2017-10-07,Switzerland,Hungary,5:2,5,2,5:
+1014,2018-11-18,Switzerland,Belgium,5:2,5,2,5:
+1015,2019-06-09,Switzerland,England,0:0 (5:6),0,0,5:6
+1016,2019-03-26,Switzerland,Denmark,3:3,3,3,3:
+1017,2020-11-14,Switzerland,Spain,1:1,1,1,1:
+1018,2020-10-07,Switzerland,Croatia,1:2,1,2,1:
+1019,2020-09-06,Switzerland,Germany,1:1,1,1,1:
+1020,2021-03-31,Switzerland,Finland,3:2,3,2,3:
+1021,2000-11-15,Denmark,Germany,2:1,2,1,2:
+1022,2000-06-21,Denmark,Czech Republic,0:2,0,2,0:
+1023,2000-06-03,Denmark,Belgium,2:2,2,2,2:
+1024,2000-04-26,Denmark,Sweden,0:1,0,1,0:
+1025,2001-11-10,Denmark,Netherlands,1:1,1,1,1:
+1026,2001-06-02,Denmark,Czech Republic,2:1,2,1,2:
+1027,2002-11-20,Denmark,Poland,2:0,2,0,2:
+1028,2002-06-15,Denmark,England,0:3,0,3,0:
+1029,2002-06-11,Denmark,France,2:0,2,0,2:
+1030,2003-08-20,Denmark,Finland,1:1,1,1,1:
+1031,2003-04-30,Denmark,Ukraine,1:0,1,0,1:
+1032,2004-10-13,Denmark,Turkey,1:1,1,1,1:
+1033,2004-09-04,Denmark,Ukraine,1:1,1,1,1:
+1034,2004-06-22,Denmark,Sweden,2:2,2,2,2:
+1035,2004-06-14,Denmark,Italy,0:0,0,0,0:
+1036,2004-06-05,Denmark,Croatia,1:2,1,2,1:
+1037,2004-04-28,Denmark,Scotland,1:0,1,0,1:
+1038,2005-08-17,Denmark,England,4:1,4,1,4:
+1039,2006-09-01,Denmark,Portugal,4:2,4,2,4:
+1040,2006-08-16,Denmark,Poland,2:0,2,0,2:
+1041,2007-10-13,Denmark,Spain,1:3,1,3,1:
+1042,2007-06-02,Denmark,Sweden,0:3,0,3,0:
+1043,2008-11-19,Denmark,Wales,0:1,0,1,0:
+1044,2008-08-20,Denmark,Spain,0:3,0,3,0:
+1045,2008-03-26,Denmark,Czech Republic,1:1,1,1,1:
+1046,2009-10-14,Denmark,Hungary,0:1,0,1,0:
+1047,2009-10-10,Denmark,Sweden,1:0,1,0,1:
+1048,2009-09-05,Denmark,Portugal,1:1,1,1,1:
+1049,2010-11-17,Denmark,Czech Republic,0:0,0,0,0:
+1050,2010-08-11,Denmark,Germany,2:2,2,2,2:
+1051,2011-11-15,Denmark,Finland,2:1,2,1,2:
+1052,2011-11-11,Denmark,Sweden,2:0,2,0,2:
+1053,2011-10-11,Denmark,Portugal,2:1,2,1,2:
+1054,2011-02-09,Denmark,England,1:2,1,2,1:
+1055,2012-09-08,Denmark,Czech Republic,0:0,0,0,0:
+1056,2012-08-15,Denmark,Slovakia,1:3,1,3,1:
+1057,2012-06-17,Denmark,Germany,1:2,1,2,1:
+1058,2012-06-13,Denmark,Portugal,2:3,2,3,2:
+1059,2012-02-29,Denmark,Russia,0:2,0,2,0:
+1060,2013-10-11,Denmark,Italy,2:2,2,2,2:
+1061,2014-10-14,Denmark,Portugal,0:1,0,1,0:
+1062,2014-09-03,Denmark,Turkey,1:2,1,2,1:
+1063,2014-05-28,Denmark,Sweden,1:0,1,0,1:
+1064,2015-11-17,Denmark,Sweden,2:2,2,2,2:
+1065,2015-10-11,Denmark,France,1:2,1,2,1:
+1066,2017-09-01,Denmark,Poland,4:0,4,0,4:
+1067,2017-06-06,Denmark,Germany,1:1,1,1,1:
+1068,2018-10-16,Denmark,Austria,2:0,2,0,2:
+1069,2018-09-09,Denmark,Wales,2:0,2,0,2:
+1070,2018-06-26,Denmark,France,0:0,0,0,0:
+1071,2019-10-12,Denmark,Switzerland,1:0,1,0,1:
+1072,2020-11-11,Denmark,Sweden,2:0,2,0,2:
+1073,2020-09-08,Denmark,England,0:0,0,0,0:
+1074,2020-09-05,Denmark,Belgium,0:2,0,2,0:
+1075,2000-03-29,Wales,Finland,1:2,1,2,1:
+1076,2001-06-02,Wales,Poland,1:2,1,2,1:
+1077,2001-03-28,Wales,Ukraine,1:1,1,1,1:
+1078,2002-10-16,Wales,Italy,2:1,2,1,2:
+1079,2002-05-14,Wales,Germany,1:0,1,0,1:
+1080,2002-03-27,Wales,Czech Republic,0:0,0,0,0:
+1081,2003-11-19,Wales,Russia,0:1,0,1,0:
+1082,2003-09-10,Wales,Finland,1:1,1,1,1:
+1083,2004-10-13,Wales,Poland,2:3,2,3,2:
+1084,2004-02-18,Wales,Scotland,4:0,4,0,4:
+1085,2005-09-03,Wales,England,0:1,0,1,0:
+1086,2005-03-26,Wales,Austria,0:2,0,2,0:
+1087,2005-02-09,Wales,Hungary,2:0,2,0,2:
+1088,2006-10-07,Wales,Slovakia,1:5,1,5,1:
+1089,2007-09-08,Wales,Germany,0:2,0,2,0:
+1090,2007-06-02,Wales,Czech Republic,0:0,0,0,0:
+1091,2009-11-14,Wales,Scotland,3:0,3,0,3:
+1092,2009-09-09,Wales,Russia,1:3,1,3,1:
+1093,2009-04-01,Wales,Germany,0:2,0,2,0:
+1094,2009-03-28,Wales,Finland,0:2,0,2,0:
+1095,2009-02-11,Wales,Poland,0:1,0,1,0:
+1096,2010-03-03,Wales,Sweden,0:1,0,1,0:
+1097,2011-10-07,Wales,Switzerland,2:0,2,0,2:
+1098,2011-05-25,Wales,Scotland,1:3,1,3,1:
+1099,2011-03-26,Wales,England,0:2,0,2,0:
+1100,2012-10-12,Wales,Scotland,2:1,2,1,2:
+1101,2012-09-07,Wales,Belgium,0:2,0,2,0:
+1102,2013-11-16,Wales,Finland,1:1,1,1,1:
+1103,2013-10-11,Wales,North Macedonia,1:0,1,0,1:
+1104,2013-03-26,Wales,Croatia,1:2,1,2,1:
+1105,2013-02-06,Wales,Austria,2:1,2,1,2:
+1106,2015-11-13,Wales,Netherlands,2:3,2,3,2:
+1107,2015-06-12,Wales,Belgium,1:0,1,0,1:
+1108,2016-07-01,Wales,Belgium,3:1,3,1,3:
+1109,2016-06-11,Wales,Slovakia,2:1,2,1,2:
+1110,2017-09-02,Wales,Austria,1:0,1,0,1:
+1111,2018-11-16,Wales,Denmark,1:2,1,2,1:
+1112,2018-10-11,Wales,Spain,1:4,1,4,1:
+1113,2019-11-19,Wales,Hungary,2:0,2,0,2:
+1114,2019-10-13,Wales,Croatia,1:1,1,1,1:
+1115,2019-03-24,Wales,Slovakia,1:0,1,0,1:
+1116,2020-11-18,Wales,Finland,3:1,3,1,3:
+1117,2021-03-30,Wales,Czech Republic,1:0,1,0,1:
+1118,2000-11-15,North Macedonia,Hungary,0:1,0,1,0:
+1119,2001-10-07,North Macedonia,Slovakia,0:5,0,5,0:
+1120,2001-09-01,North Macedonia,Sweden,1:2,1,2,1:
+1121,2001-03-28,North Macedonia,Turkey,1:2,1,2,1:
+1122,2001-02-28,North Macedonia,Czech Republic,1:1,1,1,1:
+1123,2002-10-12,North Macedonia,Turkey,1:2,1,2,1:
+1124,2002-04-17,North Macedonia,Finland,1:0,1,0,1:
+1125,2003-09-06,North Macedonia,England,1:2,1,2,1:
+1126,2003-04-02,North Macedonia,Portugal,0:1,0,1,0:
+1127,2003-03-29,North Macedonia,Slovakia,0:2,0,2,0:
+1128,2004-11-17,North Macedonia,Czech Republic,0:2,0,2,0:
+1129,2004-10-09,North Macedonia,Netherlands,2:2,2,2,2:
+1130,2004-04-28,North Macedonia,Croatia,0:1,0,1,0:
+1131,2004-03-31,North Macedonia,Ukraine,1:0,1,0,1:
+1132,2005-08-17,North Macedonia,Finland,0:3,0,3,0:
+1133,2006-11-15,North Macedonia,Russia,0:2,0,2,0:
+1134,2006-09-06,North Macedonia,England,0:1,0,1,0:
+1135,2006-06-04,North Macedonia,Turkey,1:0,1,0,1:
+1136,2007-11-17,North Macedonia,Croatia,2:0,2,0,2:
+1137,2008-09-10,North Macedonia,Netherlands,1:2,1,2,1:
+1138,2008-09-06,North Macedonia,Scotland,1:0,1,0,1:
+1139,2008-05-26,North Macedonia,Poland,1:1,1,1,1:
+1140,2009-08-12,North Macedonia,Spain,2:3,2,3,2:
+1141,2010-10-12,North Macedonia,Russia,0:1,0,1,0:
+1142,2011-10-11,North Macedonia,Slovakia,1:1,1,1,1:
+1143,2012-10-12,North Macedonia,Croatia,1:2,1,2,1:
+1144,2013-09-10,North Macedonia,Scotland,1:2,1,2,1:
+1145,2013-09-06,North Macedonia,Wales,2:1,2,1,2:
+1146,2013-03-22,North Macedonia,Belgium,0:2,0,2,0:
+1147,2013-02-06,North Macedonia,Denmark,3:0,3,0,3:
+1148,2014-11-15,North Macedonia,Slovakia,0:2,0,2,0:
+1149,2015-10-09,North Macedonia,Ukraine,0:2,0,2,0:
+1150,2015-09-08,North Macedonia,Spain,0:1,0,1,0:
+1151,2016-10-09,North Macedonia,Italy,2:3,2,3,2:
+1152,2017-06-11,North Macedonia,Spain,1:2,1,2,1:
+1153,2017-06-05,North Macedonia,Turkey,0:0,0,0,0:
+1154,2019-06-10,North Macedonia,Austria,1:4,1,4,1:
+1155,2019-06-07,North Macedonia,Poland,0:1,0,1,0:
+1156,2000-09-03,Hungary,Italy,2:2,2,2,2:
+1157,2000-08-16,Hungary,Austria,1:1,1,1,1:
+1158,2000-03-29,Hungary,Poland,0:0,0,0,0:
+1159,2001-11-14,Hungary,North Macedonia,5:0,5,0,5:
+1160,2001-08-15,Hungary,Germany,2:5,2,5,2:
+1161,2001-04-25,Hungary,Finland,0:0,0,0,0:
+1162,2002-08-21,Hungary,Spain,1:1,1,1,1:
+1163,2002-05-08,Hungary,Croatia,0:2,0,2,0:
+1164,2002-02-13,Hungary,Switzerland,1:2,1,2,1:
+1165,2003-10-11,Hungary,Poland,1:2,1,2,1:
+1166,2003-04-02,Hungary,Sweden,1:2,1,2,1:
+1167,2004-11-30,Hungary,Slovakia,0:1,0,1,0:
+1168,2004-03-31,Hungary,Wales,1:2,1,2,1:
+1169,2005-10-12,Hungary,Croatia,0:0,0,0,0:
+1170,2005-09-07,Hungary,Sweden,0:1,0,1,0:
+1171,2006-10-07,Hungary,Turkey,0:1,0,1,0:
+1172,2007-08-22,Hungary,Italy,3:1,3,1,3:
+1173,2008-09-06,Hungary,Denmark,0:0,0,0,0:
+1174,2008-05-31,Hungary,Croatia,1:1,1,1,1:
+1175,2009-09-09,Hungary,Portugal,0:1,0,1,0:
+1176,2009-09-05,Hungary,Sweden,1:2,1,2,1:
+1177,2010-05-29,Hungary,Germany,0:3,0,3,0:
+1178,2010-03-03,Hungary,Russia,1:1,1,1,1:
+1179,2011-10-11,Hungary,Finland,0:0,0,0,0:
+1180,2011-09-02,Hungary,Sweden,2:1,2,1,2:
+1181,2011-03-25,Hungary,Netherlands,0:4,0,4,0:
+1182,2012-10-16,Hungary,Turkey,3:1,3,1,3:
+1183,2012-09-11,Hungary,Netherlands,1:4,1,4,1:
+1184,2013-08-14,Hungary,Czech Republic,1:1,1,1,1:
+1185,2014-11-18,Hungary,Russia,1:2,1,2,1:
+1186,2014-11-14,Hungary,Finland,1:0,1,0,1:
+1187,2014-05-22,Hungary,Denmark,2:2,2,2,2:
+1188,2014-03-05,Hungary,Finland,1:2,1,2,1:
+1189,2016-11-15,Hungary,Sweden,0:2,0,2,0:
+1190,2016-10-07,Hungary,Switzerland,2:3,2,3,2:
+1191,2016-06-26,Hungary,Belgium,0:4,0,4,0:
+1192,2016-06-22,Hungary,Portugal,3:3,3,3,3:
+1193,2016-03-26,Hungary,Croatia,1:1,1,1,1:
+1194,2017-09-03,Hungary,Portugal,0:1,0,1,0:
+1195,2017-06-05,Hungary,Russia,0:3,0,3,0:
+1196,2018-11-18,Hungary,Finland,2:0,2,0,2:
+1197,2018-03-27,Hungary,Scotland,0:1,0,1,0:
+1198,2019-09-09,Hungary,Slovakia,1:2,1,2,1:
+1199,2019-06-11,Hungary,Wales,1:0,1,0,1:
+1200,2019-03-24,Hungary,Croatia,2:1,2,1,2:
+1201,2020-11-18,Hungary,Turkey,2:0,2,0,2:
+1202,2020-09-06,Hungary,Russia,2:3,2,3,2:
+1203,2021-03-25,Hungary,Poland,3:3,3,3,3:
+1204,2000-10-11,Slovakia,Sweden,0:0,0,0,0:
+1205,2000-09-03,Slovakia,North Macedonia,2:0,2,0,2:
+1206,2000-08-16,Slovakia,Croatia,1:1,1,1,1:
+1207,2001-09-01,Slovakia,Turkey,0:1,0,1,0:
+1208,2002-11-20,Slovakia,Ukraine,1:1,1,1,1:
+1209,2002-10-12,Slovakia,England,1:2,1,2,1:
+1210,2003-09-10,Slovakia,North Macedonia,1:1,1,1,1:
+1211,2003-06-07,Slovakia,Turkey,0:1,0,1,0:
+1212,2004-03-31,Slovakia,Austria,1:1,1,1,1:
+1213,2005-11-16,Slovakia,Spain,1:1,1,1,1:
+1214,2005-10-12,Slovakia,Russia,0:0,0,0,0:
+1215,2005-09-03,Slovakia,Germany,2:0,2,0,2:
+1216,2005-03-30,Slovakia,Portugal,1:1,1,1,1:
+1217,2006-10-11,Slovakia,Germany,1:4,1,4,1:
+1218,2006-09-06,Slovakia,Czech Republic,0:3,0,3,0:
+1219,2006-05-20,Slovakia,Belgium,1:1,1,1,1:
+1220,2007-09-12,Slovakia,Wales,2:5,2,5,2:
+1221,2007-08-22,Slovakia,France,0:1,0,1,0:
+1222,2008-10-15,Slovakia,Poland,2:1,2,1,2:
+1223,2008-02-26,Slovakia,Hungary,1:1,1,1,1:
+1224,2009-09-05,Slovakia,Czech Republic,2:2,2,2,2:
+1225,2009-02-10,Slovakia,Ukraine,2:3,2,3,2:
+1226,2010-09-03,Slovakia,North Macedonia,1:0,1,0,1:
+1227,2010-08-11,Slovakia,Croatia,1:1,1,1,1:
+1228,2010-06-24,Slovakia,Italy,3:2,3,2,3:
+1229,2011-10-07,Slovakia,Russia,0:1,0,1,0:
+1230,2011-03-29,Slovakia,Denmark,1:2,1,2,1:
+1231,2013-03-26,Slovakia,Sweden,0:0,0,0,0:
+1232,2014-11-18,Slovakia,Finland,2:1,2,1,2:
+1233,2014-10-09,Slovakia,Spain,2:1,2,1,2:
+1234,2015-11-13,Slovakia,Switzerland,3:2,3,2,3:
+1235,2015-09-08,Slovakia,Ukraine,0:0,0,0,0:
+1236,2015-06-14,Slovakia,North Macedonia,2:1,2,1,2:
+1237,2015-03-31,Slovakia,Czech Republic,1:0,1,0,1:
+1238,2016-10-11,Slovakia,Scotland,3:0,3,0,3:
+1239,2016-09-04,Slovakia,England,0:1,0,1,0:
+1240,2016-06-20,Slovakia,England,0:0,0,0,0:
+1241,2018-11-16,Slovakia,Ukraine,4:1,4,1,4:
+1242,2018-10-13,Slovakia,Czech Republic,1:2,1,2,1:
+1243,2018-09-05,Slovakia,Denmark,3:0,3,0,3:
+1244,2018-05-31,Slovakia,Netherlands,1:1,1,1,1:
+1245,2019-10-10,Slovakia,Wales,1:1,1,1,1:
+1246,2019-09-06,Slovakia,Croatia,0:4,0,4,0:
+1247,2019-03-21,Slovakia,Hungary,2:0,2,0,2:
+1248,2020-11-15,Slovakia,Scotland,1:0,1,0,1:
+1249,2020-09-04,Slovakia,Czech Republic,1:3,1,3,1:
+1250,2021-03-30,Slovakia,Russia,2:1,2,1,2:
+1251,2000-03-29,Scotland,France,0:2,0,2,0:
+1252,2001-09-01,Scotland,Croatia,0:0,0,0,0:
+1253,2001-03-24,Scotland,Belgium,2:2,2,2,2:("(")+
+1254,2002-08-21,Scotland,Denmark,0:1,0,1,0:
+1255,2003-11-15,Scotland,Netherlands,1:0,1,0,1:
+1256,2003-06-07,Scotland,Germany,1:1,1,1,1:
+1257,2003-04-30,Scotland,Austria,0:2,0,2,0:
+1258,2004-11-17,Scotland,Sweden,1:4,1,4,1:
+1259,2004-08-18,Scotland,Hungary,0:3,0,3,0:
+1260,2005-09-03,Scotland,Italy,1:1,1,1,1:
+1261,2006-10-07,Scotland,France,1:0,1,0,1:
+1262,2006-03-01,Scotland,Switzerland,1:3,1,3,1:
+1263,2007-11-17,Scotland,Italy,1:2,1,2,1:
+1264,2007-10-13,Scotland,Ukraine,3:1,3,1,3:
+1265,2008-03-26,Scotland,Croatia,1:1,1,1,1:
+1266,2009-09-09,Scotland,Netherlands,0:1,0,1,0:
+1267,2009-09-05,Scotland,North Macedonia,2:0,2,0,2:
+1268,2010-10-12,Scotland,Spain,2:3,2,3,2:
+1269,2010-03-03,Scotland,Czech Republic,1:0,1,0,1:
+1270,2011-09-03,Scotland,Czech Republic,2:2,2,2,2:
+1271,2011-08-10,Scotland,Denmark,2:1,2,1,2:
+1272,2012-09-11,Scotland,North Macedonia,1:1,1,1,1:
+1273,2013-10-15,Scotland,Croatia,2:0,2,0,2:
+1274,2013-09-06,Scotland,Belgium,0:2,0,2,0:
+1275,2013-03-22,Scotland,Wales,1:2,1,2,1:
+1276,2014-11-18,Scotland,England,1:3,1,3,1:
+1277,2015-10-08,Scotland,Poland,2:2,2,2,2:
+1278,2015-09-07,Scotland,Germany,2:3,2,3,2:
+1279,2016-03-29,Scotland,Denmark,1:0,1,0,1:
+1280,2017-11-09,Scotland,Netherlands,0:1,0,1,0:
+1281,2017-10-05,Scotland,Slovakia,1:0,1,0,1:
+1282,2017-06-10,Scotland,England,2:2,2,2,2:
+1283,2018-10-14,Scotland,Portugal,1:3,1,3,1:
+1284,2018-09-07,Scotland,Belgium,0:4,0,4,0:
+1285,2019-09-09,Scotland,Belgium,0:4,0,4,0:
+1286,2019-09-06,Scotland,Russia,1:2,1,2,1:
+1287,2020-10-14,Scotland,Czech Republic,1:0,1,0,1:
+1288,2020-10-11,Scotland,Slovakia,1:0,1,0,1:
+1289,2021-03-25,Scotland,Austria,2:2,2,2,2:
