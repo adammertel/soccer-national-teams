@@ -29,6 +29,7 @@ for (_, name, url_nft) in teams[['name', 'url_nft']].itertuples():
             team_home = match_tr('td.teams.home span').text()
             team_away = match_tr('td.teams.away span').text()
             match_date = match_tr('td.date').text()
+            match_type = match_tr('td.event').text()
             result = match_tr('td.result a').text()
 
             if team_home == name:
@@ -39,6 +40,7 @@ for (_, name, url_nft) in teams[['name', 'url_nft']].itertuples():
                             'team_home': team_home,
                             'team_away': team_away,
                             'score':  result,
+                            'friendly': match_type == 'Friendly',
                             'score_home': result.split(':')[0][0],
                             'score_away': result.split(':')[1][0],
                             'penalties': '' if "(" not in result else result[result.find("(")+1:result.find(")")]

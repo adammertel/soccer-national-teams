@@ -31,8 +31,8 @@ for (_, t1) in teams[['name']].itertuples():
                 team_matches_away['score_away'].values.tolist() \
             )
 
-            # team 2
             t2_team_scores = np.array(\
+            # team 2
                 team_matches_home['score_away'].values.tolist() + \
                 team_matches_away['score_home'].values.tolist() \
             )
